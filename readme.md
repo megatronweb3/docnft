@@ -1,7 +1,7 @@
 # Document as NFT
 The purpose of this project is to illustrate the implementation of 'Document as NFT' concept.
-Medium:
-The solidity contract after deployment ethereum blockchain, can be interacted with as web service by the golang implementation provided.
+Medium: https://medium.com/@megatron.web3/document-as-nft-7fa838a48737
+The solidity contract after deployment on ethereum blockchain, can be interacted with as web service by the golang implementation provided.
 
 ## Steps
 1. Upload the Degree.pdf to IPFS typically using a IPFS gateway like Pinata
